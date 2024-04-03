@@ -1,0 +1,85 @@
+header {
+text-align: center;
+}
+
+#arcoiris{
+display: flex;
+background-image:"../imagens/fundo.jpg";
+}
+
+section img{
+height:300px;
+width:auto;
+}
+
+#imagemseparada{
+    display: flex;
+    margin: 20px 0px 20px 0px;
+    }
+
+#imagemjunta{
+display: flex;
+}
+
+#vermelho{
+text-align: center;
+width: 100px;
+height: 100px;
+background-color: red;
+color: white;
+margin: 0px 0px 0px 550px;
+}
+
+#laranja{
+text-align: center;
+width: 100px;
+height: 100px;
+background-color: orange;
+color: white;
+margin: 100px 0px 0px 0px;
+}
+
+#amarelo{
+text-align: center;
+width: 100px;
+height: 100px;
+background-color: yellow;
+color: white;
+margin: 200px 0px 0px 0px;
+}
+
+#verde{
+text-align: center;
+width: 100px;
+height: 100px;
+background-color: green;
+color: white;
+margin: 300px 0px 0px 0px;
+}
+
+#ciano{
+text-align: center;
+width: 100px;
+height: 100px;
+background-color: cyan;
+color: white;
+margin: 400px 0px 0px 0px;
+}
+
+#azul{
+text-align: center;
+width: 100px;
+height: 100px;
+background-color: blue;
+color: white;
+margin: 500px 0px 0px 0px;
+}
+
+#roxo{
+text-align: center;
+width: 100px;
+height: 100px;
+background-color: purple;
+color: white;
+margin: 600px 0px 0px 0px;
+}
